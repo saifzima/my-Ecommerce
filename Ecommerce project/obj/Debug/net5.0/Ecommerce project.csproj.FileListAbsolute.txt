@@ -1,0 +1,48 @@
+C:\Users\HP\Desktop\Ecommerce project\bin\Debug\net5.0\Ecommerce project.exe
+C:\Users\HP\Desktop\Ecommerce project\bin\Debug\net5.0\Ecommerce project.deps.json
+C:\Users\HP\Desktop\Ecommerce project\bin\Debug\net5.0\Ecommerce project.runtimeconfig.json
+C:\Users\HP\Desktop\Ecommerce project\bin\Debug\net5.0\Ecommerce project.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Ecommerce project\bin\Debug\net5.0\Ecommerce project.dll
+C:\Users\HP\Desktop\Ecommerce project\bin\Debug\net5.0\ref\Ecommerce project.dll
+C:\Users\HP\Desktop\Ecommerce project\bin\Debug\net5.0\Ecommerce project.pdb
+C:\Users\HP\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.AssemblyInfo.cs
+C:\Users\HP\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.dll
+C:\Users\HP\Desktop\Ecommerce project\obj\Debug\net5.0\ref\Ecommerce project.dll
+C:\Users\HP\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.pdb
+C:\Users\HP\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.genruntimeconfig.cache
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.csprojAssemblyReference.cache
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.AssemblyInfoInputs.cache
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.AssemblyInfo.cs
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.csproj.CoreCompileInputs.cache
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.dll
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\obj\Debug\net5.0\ref\Ecommerce project.dll
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.pdb
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\bin\Debug\net5.0\Ecommerce project.exe
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\bin\Debug\net5.0\Ecommerce project.deps.json
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\bin\Debug\net5.0\Ecommerce project.runtimeconfig.json
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\bin\Debug\net5.0\Ecommerce project.runtimeconfig.dev.json
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\bin\Debug\net5.0\Ecommerce project.dll
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\bin\Debug\net5.0\ref\Ecommerce project.dll
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\bin\Debug\net5.0\Ecommerce project.pdb
+C:\Users\Oyewola Abdulhameed\Desktop\Ecommerce project\obj\Debug\net5.0\Ecommerce project.genruntimeconfig.cache
+C:\Users\HP\Desktop\File\Ecommerce project\bin\Debug\net5.0\Ecommerce project.exe
+C:\Users\HP\Desktop\File\Ecommerce project\bin\Debug\net5.0\Ecommerce project.deps.json
+C:\Users\HP\Desktop\File\Ecommerce project\bin\Debug\net5.0\Ecommerce project.runtimeconfig.json
+C:\Users\HP\Desktop\File\Ecommerce project\bin\Debug\net5.0\Ecommerce project.runtimeconfig.dev.json
+C:\Users\HP\Desktop\File\Ecommerce project\bin\Debug\net5.0\Ecommerce project.dll
+C:\Users\HP\Desktop\File\Ecommerce project\bin\Debug\net5.0\ref\Ecommerce project.dll
+C:\Users\HP\Desktop\File\Ecommerce project\bin\Debug\net5.0\Ecommerce project.pdb
+C:\Users\HP\Desktop\File\Ecommerce project\obj\Debug\net5.0\Ecommerce project.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\File\Ecommerce project\obj\Debug\net5.0\Ecommerce project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\File\Ecommerce project\obj\Debug\net5.0\Ecommerce project.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\File\Ecommerce project\obj\Debug\net5.0\Ecommerce project.AssemblyInfo.cs
+C:\Users\HP\Desktop\File\Ecommerce project\obj\Debug\net5.0\Ecommerce project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\File\Ecommerce project\obj\Debug\net5.0\Ecommerce project.dll
+C:\Users\HP\Desktop\File\Ecommerce project\obj\Debug\net5.0\ref\Ecommerce project.dll
+C:\Users\HP\Desktop\File\Ecommerce project\obj\Debug\net5.0\Ecommerce project.pdb
+C:\Users\HP\Desktop\File\Ecommerce project\obj\Debug\net5.0\Ecommerce project.genruntimeconfig.cache
